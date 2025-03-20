@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: 'Hubble'
-  tagline: A fast, simple implementation of a Farcaster Hub in Typescript + Rust.
+  tagline: A fast, simple implementation of a Farcaster Hub in TypeScript + Rust.
   actions:
     - theme: brand
       text: Get Started
@@ -16,11 +16,11 @@ hero:
 features:
   - icon: 🌍
     title: Fast
-    details: Get Hubble set up in under 30 minutes with our docker image.
+    details: Get Hubble set up in under 30 minutes with our Docker image.
   - icon: 🏎️
     title: Powerful
-    details: Sync the entire Farcaster network to your server in a few hours. 
+    details: Sync the entire Farcaster network to your server in just a few hours.
   - icon: 📖
     title: Open Source
-    details: Hubble is built in public by and MIT licensed. Contributions of all kinds are welcome.
+    details: Hubble is built in public and MIT licensed. Contributions of all kinds are welcome!
 ---
